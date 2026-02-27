@@ -7,7 +7,7 @@
 -->
 # I'm a Frontend Developer at eUnifyCentral LLC 👋
 
-## `uManage`, `eUnifyPay`, `CommunityLink`, `PropDocs`
+## `uManage`, `eUnifyPortal`, `eUnifyPay`, `CommunityLink`, `PropDocs`, `uManagePro`
 
 Company in the USA providing property management software solutions.
 
@@ -34,11 +34,12 @@ Department of `advertising` market research 🔎.
 
 ## Skills:
 - `JS`
+- `jQuery`
 - `C#`
 - `nodejs`
 - `React`
 - `Vue`
-- `ASP.NET core`
+- `ASP.NET core MVC`
 - `ASP.NET web forms`
 - `.NET Maui`
 - `THREEjs`
@@ -46,10 +47,12 @@ Department of `advertising` market research 🔎.
 - deep dive into the `DOM`
 - Regular expressions
 - Working with the `developer tool`
+- `WebComponent`
 - `HTML` / `CSS`, `SCSS`, `SASS`
 
 ## About me:
 
 - love to read 📚
 - I like cats 🐈
+- I like Lego 🏯
 - love my wife and my son 👩‍❤️‍👨👨🏻‍🍼
